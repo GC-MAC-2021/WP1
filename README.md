@@ -1,2 +1,3 @@
 # WP1
-This is a test repo for WP1
+member 1: team, role, project
+
